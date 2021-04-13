@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://shivanshanand.netlify.app/sitemap.xml
+Host: https://shivanshanand.netlify.app
