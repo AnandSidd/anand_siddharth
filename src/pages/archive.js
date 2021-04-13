@@ -234,7 +234,6 @@ export const pageQuery = graphql`
             title
             tech
             github
-            external
           }
           html
         }

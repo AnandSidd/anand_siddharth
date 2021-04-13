@@ -1,1 +1,0 @@
-{"expireTime":9007200872980191000,"key":"transformer-remark-markdown-html-eb158c1e345eb49e535e6d925ec0fb9e-gatsby-remark-external-linksgatsby-remark-imagesgatsby-remark-code-titlesgatsby-remark-prismjs-","val":"<p>Takes the image,sharpens the image,removes the noise,finds the contour nad passes it to PyTesseract for OCR reading.</p>"}

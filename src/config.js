@@ -1,34 +1,34 @@
 module.exports = {
-  siteTitle: 'Shivansh Anand | Software Engineer',
+  siteTitle: 'Siddharth Anand Srivastav | Software Engineer',
   siteDescription:
-    'Shivansh Anand is a software engineer based in Hyderabad, India who specializes in building websites, applications, and everything in between.',
+    'Siddharth Anand Srivastav is a student at IIT-BHU, Varanasi who specializes in building websites, applications, and everything in between.',
   siteKeywords:
-    'Shivansh Anand, Shivansh, Anand, _shivansh__anand_, software engineer, app developer, web developer, python, india',
-  siteUrl: 'https://shivanshanand.netlify.app',
+    'Siddharth Anand Srivastav, Siddharth, Anand, AnandSidd, software engineer, app developer, web developer, python, india',
+  siteUrl: 'https://siddharthanand.netlify.app',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Shivansh Anand',
-  location: 'Hyderabad, India',
-  email: 'shivansh.anand@students.iiit.ac.in',
-  github: 'https://github.com/anandshivansh',
-  twitterHandle: '@AnandShivansh',
+  name: 'Siddharth Anand Srivastav',
+  location: 'Varanasi, India',
+  email: 'siddharth.asrivastav.ece19@itbhu.ac.in',
+  github: 'https://github.com/AnandSidd',
+  twitterHandle: '@Siddhar12735077',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/anandshivansh',
+      url: 'https://github.com/AnandSidd',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/anandshivansh',
+      url: 'https://www.linkedin.com/in/AnandSidd',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/_shivansh__anand_',
+      url: 'https://www.instagram.com/_siddharth__101',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/AnandShivansh',
+      url: 'https://twitter.com/Siddhar12735077',
     },
   ],
 
